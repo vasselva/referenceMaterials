@@ -19,7 +19,7 @@ layout: default
 ### white papers
 | Name | comments |
 |:----------------|:-------|
-| [ Google Container security](https://cloud.google.com/containers/security/)| NA |
+| [ NIST container security guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf)| NA |
 
 ## Cloud
 | Name | Comments |
