@@ -14,7 +14,7 @@ layout: default
 ### General
  | Name          | Comments |
 |:------------------|:------|
-| [ Google Container security](https://cloud.google.com/containers/security/)| NA |
+|  [ Google Container security](https://cloud.google.com/containers/security/)| |
 
 ### white papers
  | Name          | Comments |
