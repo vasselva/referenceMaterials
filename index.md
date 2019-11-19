@@ -24,4 +24,4 @@ layout: default
 ## Cloud
  | Name          | Comments |
 |:------------------|:------|
-| [AWS re-invent videos](https://reinventvideos.com/) | youtube videos of all reinvent of AWS |
+|  [AWS re-invent videos](https://reinventvideos.com/) | youtube videos of all reinvent of AWS|
