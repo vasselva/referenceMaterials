@@ -29,3 +29,8 @@ layout: default
  | Name          | Comments |
 |:------------------|:------|
 |  [AWS re-invent videos](https://reinventvideos.com/) | youtube videos of all reinvent of AWS|
+
+## Hardening Materials
+| Name | Comments|
+|:------------------|:------|
+|  [Hardening materials](https://github.com/dev-sec) | Hardening materials|
