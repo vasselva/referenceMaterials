@@ -6,7 +6,8 @@ layout: default
 
 ### Lambda docker file - Make sure requirements.txt and revelant packages locally
 
-```FROM amazonlinux:2017.03
+```
+FROM amazonlinux:2017.03
 RUN yum -y install git \
     python37 \
     zip \
