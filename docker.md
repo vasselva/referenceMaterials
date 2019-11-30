@@ -4,7 +4,7 @@ layout: default
 
 ## DockerFile
 
-### Lambda docker file - Make sure requirements.txt and revelant packages locally
+Lambda docker file - Make sure requirements.txt and revelant packages locally
 
 ```
 FROM amazonlinux:2017.03
@@ -23,13 +23,13 @@ ADD function.py $VIRTUAL_ENV/lib/python3.6/site-packages
 RUN cd $VIRTUAL_ENV/lib/python3.6/site-packages && zip -r9 function.zip .
 ```
 
-Testing docker file locally
+Local lambda testing without AWS account
 
 ```
 docker run --rm -v "$PWD":/var/task:ro,delegated lambci/lambda:python3.8 lambda_function.lambda_handler
 ```
 
-extract zip outside of images
+Copy the file from container to host
 ```
 docker run --name temp-container-name ec842c07d3d0 /bin/true
 docker cp temp-container-name:/opt/venv/lib/python3.6/site-packages/function.zip .
