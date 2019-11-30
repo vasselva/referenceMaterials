@@ -26,9 +26,19 @@ layout: default
 
 ## Cloud
 
+### AWS reinvent videos
+
  | Name          | Comments |
 |:------------------|:------|
 |  [AWS re-invent videos](https://reinventvideos.com/) | youtube videos of all reinvent of AWS|
+
+### AWS developer tools
+
+ | Name          | Comments |
+|:------------------|:------|
+|  [AWS Local Lambda](https://github.com/lambci/docker-lambda/) | Docker Lambda for developers to test locally|
+| [Lambda Dockerfile](./docker.md) | dockerfile samples|
+
 
 ## Hardening Materials
 
