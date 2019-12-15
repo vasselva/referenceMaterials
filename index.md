@@ -16,6 +16,7 @@ layout: default
  | Name          | Comments |
 |:------------------|:------|
 |  [ Google Container security](https://cloud.google.com/containers/security/)| |
+|  [ Pod Security Policies](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-cluster-psp/)| |
 
 ### white papers
 
