@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Welcome to Kubernetes page
+# Welcome to Kubernetes page
 
-# pod security policies
+## pod security policies
 
-[ Bitnami Pod Security Policies](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-cluster-psp/)
+`Bitnami - Another example of implementing PSP`s
+ [Bitnami Pod Security Policies](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-cluster-psp/)
 
-Implement PSP and authorizing via service Accounts
-[ EKS](https://aws.amazon.com/blogs/opensource/using-pod-security-policies-amazon-eks-clusters/)
+`EKS - Implement PSP and authorizing via service Accounts`
+
+ [EKS](https://aws.amazon.com/blogs/opensource/using-pod-security-policies-amazon-eks-clusters/)
 
 
 [back](./)
