@@ -10,9 +10,10 @@ layout: default
 | [MITRE attack framework](https://attack.mitre.org/)| |
 
 ### Vault
+
  | Name          | Comments |
 |:------------------|:------|
-|  [ vault jwt backend](./vault/vault_jwt.md)| |
+|  [ vault jwt backend](./vault/vault_jwt.md) | |
 
 ## Containers
 ### General
