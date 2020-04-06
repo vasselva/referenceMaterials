@@ -15,6 +15,7 @@ layout: default
  | Name          | Comments |
 |:------------------|:------|
 |  [ vault jwt backend](./vault/vault_jwt.md) | |
+| [Vault CertManager Integration](./vault/vault_certmanager.rd)||
 
 ## Containers
 ### General
